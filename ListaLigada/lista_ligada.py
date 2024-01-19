@@ -1,4 +1,4 @@
-from No import No
+from ListaLigada.No import No
 
 class ListaLigada(No):
     
